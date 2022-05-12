@@ -1,3 +1,5 @@
+// PMAC message authentication code, defined in
+// https://web.cs.ucdavis.edu/~rogaway/ocb/pmac.pdf
 package pmac
 
 import (
